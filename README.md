@@ -1,1 +1,1 @@
-# Merhaba  bu  benim ilk gethub projem
+# Merhaba  bu  benim ilk gthub projem
