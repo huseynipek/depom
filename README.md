@@ -1,1 +1,1 @@
-# Merhaba  bu  benim ilk gthub projem
+# Merhaba  bu  benim ilk github projem
